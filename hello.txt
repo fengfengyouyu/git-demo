@@ -12,3 +12,5 @@ hello git!
 
 hot-fix!
 master
+hot-fix
+
